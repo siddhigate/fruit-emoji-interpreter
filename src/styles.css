@@ -1,0 +1,36 @@
+@import url("https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&display=swap");
+
+.App {
+  font-family: "Dancing Script", cursive;
+  text-align: center;
+  font-size: 1.5rem;
+}
+
+nav {
+  background-color: #db2777;
+  padding: 1rem;
+  border-bottom-left-radius: 1rem;
+}
+
+body {
+  background-color: #fce7f3;
+  margin: 0rem;
+}
+
+input {
+  width: 80%;
+  padding: 1rem;
+  margin: 1rem;
+  margin-top: 1rem;
+}
+
+h2 {
+  margin: 1rem;
+  margin-bottom: 2rem;
+}
+
+footer {
+  background-color: #db2777;
+  padding: 2rem 0rem;
+  margin-top: 30vh;
+}
